@@ -24,6 +24,7 @@ class MyApp extends StatelessWidget {
                     titleMedium: TextStyle(
                       fontFamily: 'OpenSans',
                       fontSize: 20,
+                      fontWeight: FontWeight.bold,
                     ),
                   ))),
       home: MyHomePage(),
